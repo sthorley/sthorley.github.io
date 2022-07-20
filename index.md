@@ -4,7 +4,6 @@
 
 ##### Melbourne, Australia
 <br>
-<br>
 
 **Mail:** gday [AT] sthorley.com
 
