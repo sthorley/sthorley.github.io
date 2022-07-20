@@ -5,9 +5,11 @@ Stirling Thorley
 
 #### Melbourne, Australia
 
-Mail: contact[AT]sthorley.com
+**Mail:** mail [AT] sthorley.com
 
-Twitter: stirlow
+**LinkedIn:** [sthorley](https://www.linkedin.com/in/sthorley/)
+
+**Twitter:** @stirlow
 
 
 
