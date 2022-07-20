@@ -3,6 +3,8 @@
 ### Welcome to Stirling Thorley's landing page
 
 ##### Melbourne, Australia
+<br>
+<br>
 
 **Mail:** gday [AT] sthorley.com
 
