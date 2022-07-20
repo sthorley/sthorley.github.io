@@ -1,10 +1,8 @@
 
 
-### Stirling Thorley
-
 ### Welcome to Stirling Thorley's landing page
 
-#### Melbourne, Australia
+##### Melbourne, Australia
 
 **Mail:** mail [AT] sthorley.com
 
