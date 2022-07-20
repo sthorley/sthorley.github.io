@@ -4,7 +4,7 @@
 
 ##### Melbourne, Australia
 
-**Mail:** mail [AT] sthorley.com
+**Mail:** gday [AT] sthorley.com
 
 **LinkedIn:** [sthorley](https://www.linkedin.com/in/sthorley/)
 
