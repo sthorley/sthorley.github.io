@@ -1,6 +1,7 @@
 
 
-Stirling Thorley
+###Stirling Thorley
+
 ### Welcome to Stirling Thorley's landing page
 
 #### Melbourne, Australia
