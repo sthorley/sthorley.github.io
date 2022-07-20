@@ -1,6 +1,6 @@
-#Stirling Thorley
+# Stirling Thorley
 
-###Welcome to Stirling Thorleys landing page
+### Welcome to Stirling Thorleys landing page
 
 
 Making GitHub pages work so my site doesn't look like 2005
