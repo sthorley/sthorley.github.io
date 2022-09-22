@@ -1,7 +1,4 @@
 
-
-### Welcome to Stirling Thorley's landing page
-
 ##### Birmingham, UK
 <br>
 
@@ -14,4 +11,4 @@
 <br>
 <br>
 <br>
-Recently arrived in Birmingham, UK, from Melbourne, Australia. IT professional with focus on Microsoft 365, Azure, SharePoint and Teams.
+Recently arrived in Birmingham, UK, from Melbourne, Australia. IT professional with focus on Microsoft 365, Azure, Power Platfrom, SharePoint and Teams.
