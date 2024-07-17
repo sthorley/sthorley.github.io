@@ -11,4 +11,4 @@
 <br>
 <br>
 <br>
-Living in Birmingham, UK, from Melbourne, Australia. IT professional with focus on Azure, Microsoft 365, Power Platfrom, SharePoint and Teams.
+Living in Bristol, UK, from Melbourne, Australia. IT professional with focus on Azure, Microsoft 365, Power Platfrom, SharePoint and Teams.
