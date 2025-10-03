@@ -1,5 +1,5 @@
 
-##### Bristol, UK
+##### Melbourne, AU
 <br>
 
 **Mail:** gday [AT] sthorley.com
@@ -11,4 +11,4 @@
 <br>
 <br>
 <br>
-Living in Bristol, UK, from Melbourne, Australia. IT professional with focus on Azure, Microsoft 365, Intune, Power Platfrom, SharePoint and Teams.
+IT professional with focus on Azure, Microsoft 365, Intune, Power Platfrom, SharePoint and Teams.
